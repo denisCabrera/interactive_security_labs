@@ -24,11 +24,11 @@ Short, focused labs to build your skills quickly. Click a lab, try it, and get i
 
 | #  | Lab Title                         | Screenshot Preview                  | Link                                   |
 |----|-----------------------------------|-------------------------------------|----------------------------------------|
-| 1  | Phishing Triage: Emails & Headers | ![](images/lab1.png)                | [Launch](https://secured-lab01.pages.dev) |
-| 2  | Harden a Site-to-Site VPN         | ![](images/lab2.png)                | [Launch](https://secured-labs02.pages.dev) |
-| 3  | Build the Secure Network Diagram  | ![](images/lab3.png)                | [Launch](https://secured-labs03.pages.dev) |
-| 4  | Phishing Triage (alt set)         | ![](images/lab4.png)                | [Launch](https://secured-labs04.pages.dev) |
-| 5  | Firewall Rules: Order & NAT       | ![](images/lab5.png)                | [Launch](https://secured-labs05.pages.dev) |
+| 1  | Phishing Triage: Emails & Headers | ![](images/lab01.png)                | [Launch](https://secured-lab01.pages.dev) |
+| 2  | Harden a Site-to-Site VPN         | ![](images/lab02.png)                | [Launch](https://secured-labs02.pages.dev) |
+| 3  | Build the Secure Network Diagram  | ![](images/lab03.png)                | [Launch](https://secured-labs03.pages.dev) |
+| 4  | Phishing Triage (alt set)         | ![](images/lab04.png)                | [Launch](https://secured-labs04.pages.dev) |
+| 5  | Firewall Rules: Order & NAT       | ![](images/lab05.png)                | [Launch](https://secured-labs05.pages.dev) |
 
 > *Tip: Each lab takes just a few minutes.*  
 

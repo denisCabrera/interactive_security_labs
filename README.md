@@ -1,57 +1,73 @@
-# Interactive Security Labs Hub
+# Interactive Security Labs Hub 🔐  
 
-Hands-on, browser-based mini-labs for practicing real-world security tasks: triage phishing emails, harden VPNs, place network devices, and more.  
-**No login. No install. Free to try.**
+Hands-on, browser-based mini-labs for practicing practical security decisions — triage phishing emails, harden VPNs, order firewall rules, and more.  
 
-**Live Hub:** [secured-labs.pages.dev](https://secured-labs.pages.dev)
+**No login. No install. Free to try.**  
 
----
-
-## Labs
-
-| #  | Title                             | Link                                   |
-|----|-----------------------------------|----------------------------------------|
-| 1  | Phishing Triage: Emails & Headers | [Launch](https://secured-lab01.pages.dev) |
-| 2  | Harden a Site-to-Site VPN         | [Launch](https://secured-labs02.pages.dev) |
-| 3  | Secure Network Diagram            | [Launch](https://secured-labs03.pages.dev) |
-| 4  | Phishing Triage (alt set)         | [Launch](https://secured-labs04.pages.dev) |
-| 5  | Firewall Rules: Order & Policy    | [Launch](https://secured-labs05.pages.dev) |
-
-> *Each lab is designed to be completed in minutes and provides instant scoring and feedback.*
-
-**Preview:** *(add a small screenshot or GIF here)*
+![Interactive](https://img.shields.io/badge/Interactive-blue) 
+![Self-paced](https://img.shields.io/badge/Self--paced-green)  
 
 ---
 
-## About This Project
+## Home Preview 🖥️  
 
-A personal project to share short, interactive labs that mirror practical security tasks.  
+*Welcome screen of the Interactive Labs Hub*  
 
-**Format:** Focused, scenario-driven, instant feedback.  
-**Tech:** Static HTML/JS with Tailwind. Runs anywhere.  
-**Audience:** Students, career-switchers, and practitioners who want quick reps.  
-
----
-
-## Roadmap
-
-- [ ] More network & identity labs (cloud/IAM, segmentation, logging)  
-- [ ] Branching scenarios and longer simulations  
-- [ ] Premium packs for deeper skill paths  
+![Home Page Screenshot](images/homepage.png)  
+<!-- Replace with a real screenshot of your homepage -->  
 
 ---
 
-## Feedback
+## Labs 🚀  
+
+Short, focused labs to build your skills quickly. Click a lab, try it, and get instant scoring and feedback.  
+
+| #  | Lab Title                         | Screenshot Preview                  | Link                                   |
+|----|-----------------------------------|-------------------------------------|----------------------------------------|
+| 1  | Phishing Triage: Emails & Headers | ![](images/lab1.png)                | [Launch](https://secured-lab01.pages.dev) |
+| 2  | Harden a Site-to-Site VPN         | ![](images/lab2.png)                | [Launch](https://secured-labs02.pages.dev) |
+| 3  | Build the Secure Network Diagram  | ![](images/lab3.png)                | [Launch](https://secured-labs03.pages.dev) |
+| 4  | Phishing Triage (alt set)         | ![](images/lab4.png)                | [Launch](https://secured-labs04.pages.dev) |
+| 5  | Firewall Rules: Order & NAT       | ![](images/lab5.png)                | [Launch](https://secured-labs05.pages.dev) |
+
+> *Tip: Each lab takes just a few minutes.*  
+
+---
+
+## About the Project 💡  
+
+A personal project to share interactive security scenarios that mirror real-world tasks:  
+- Triaging suspicious emails ✉️  
+- Placing network devices in the right zones 🌐  
+- Hardening VPN settings 🔒  
+- Ordering firewall rules for least privilege 🛡️  
+
+**Format:** Focused, scenario-driven, instant feedback  
+**Tech:** Static HTML/JS with Tailwind, deployable anywhere  
+**Audience:** Students, career-switchers, and practitioners  
+
+---
+
+## Roadmap 🗺️  
+
+- [ ] More network & identity labs (cloud/IAM, segmentation, logging) ☁️  
+- [ ] Branching simulations with deeper feedback 🔄  
+- [ ] Premium packs for advanced learners 💼  
+
+---
+
+## Feedback 💬  
 
 Have an idea or found a bug?  
+
 - Quick form: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScOcZQZsGu9u8VaVzwgymYbCSvT83NU66OZENL5V-JBCO1Xog/viewform)  
 - Or [open an Issue](../../issues)  
 
 ---
 
-## Notes
+## Notes 📝  
 
+- This repo is for **info and updates only** (no source code).  
 - Not affiliated with or endorsed by any vendor or exam body.  
-- Source code private while iterating. This repo is for info and updates only.  
 - Built with ❤️ for learners.  
 

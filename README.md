@@ -1,6 +1,9 @@
 # Interactive Security Labs Hub 🔐  
 
-Hands-on, browser-based mini-labs for practicing practical security decisions — triage phishing emails, harden VPNs, order firewall rules, and more.  
+Hands-on, browser-based mini-labs for practicing practical security decisions — triage phishing emails, harden VPNs, order firewall rules, and more. 
+
+**Explore the platform here:** https://secured-labs.pages.dev
+
 
 **No login. No install. Free to try.**  
 
